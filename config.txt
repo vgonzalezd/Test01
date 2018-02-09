@@ -1,3 +1,6 @@
 Este es mi archivo de configuración
 
+
 PAGINA: mipagina.com
+
+mas información hecho por vane
